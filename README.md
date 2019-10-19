@@ -44,3 +44,8 @@ La elección de este conjunto de datos se ha inspirado en la obtención de los v
 
 ## 8. Licencia. Seleccione una de estas licencias para su dataset y explique el motivo de su selección: 
 
+Para nuestro dataset hemos escogido la licencia DATABASE RELEASED UNDER OPEN DATABASE LICENSE, INDIVIDUAL CONTENTS UNDER DATABASE CONTENTS LICENSE debido a que es más adecuada para datos que para material audiovisual o creativo. 
+
+Teniendo en cuenta que los datos que hemos extraído son de dominio público, el usuario puede copiar, distribuir y usar la base de datos. Puede crear un trabajo basado en la base de datos y puede modificarla, transformarla y expandirla si se compromete a:
+
+Compartir la base de datos adaptada o modificada y debe ser gratuíta en cualquier caso, no puede utilizarse con fines comerciales. 
