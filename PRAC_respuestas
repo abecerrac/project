@@ -1,4 +1,4 @@
-# 1. Contexto. Explicar en qué contexto se ha recolectado la información. Explique por qué el sitio web elegido proporciona dicha información. 
+#1. Contexto. Explicar en qué contexto se ha recolectado la información. Explique por qué el sitio web elegido proporciona dicha información. 
 
 Debido a que los movimiento de bolsa cambian a diario, es incompatible copiar y pegar los datos a mano, por ello, creemos que una buena fuente de información que fluctúe continuamente como lo hace la bolsa de Madrid, nos permitirá desarrollar un buen web scraping.
 La página oficial en España para poder observar esta información es la Bolsa de Madrid.
