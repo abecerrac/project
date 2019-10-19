@@ -1,4 +1,6 @@
-# project
+# Para ejecutar el script es necesario instalar la siguientes bibliotecas:
 
-hola me lees?
-Si! y tu?
+pip install pandas
+pip install requests
+pip install lxml
+pip install beautifulsoup4
