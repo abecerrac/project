@@ -12,3 +12,5 @@ Valores de las acciones de las empresas de bolsamadrid
 El dataset se compone de todas las empresas que cotizan en bolsa presentes en la dirección web http://www.bolsamadrid.es/esp/aspx/Mercados/Precios.aspx?mercado=MC con su diferencia porcentual respecto al cierre anterior, precios de cierre, máximos y mínimos diarios. 
 
 4. Representación gráfica. Presentar una imagen o esquema que identifique el dataset visualmente 
+
+https://github.com/abecerrac/project/blob/master/Dataset%20image%20PRAC1.png
