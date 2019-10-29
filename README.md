@@ -29,8 +29,8 @@ https://github.com/abecerrac/project/blob/master/Dataset%20image%20PRAC1.png
 ## 5. Contenido. Explicar los campos que incluye el dataset, el periodo de tiempo de los datos y cómo se ha recogido. 
 
 El dataset cuenta con las siguientes columnas: "Empresa","Fecha","Cierre","Maximo","Minimo".
-Tiene un total de XXXX registros que se han recogido: xxxx
-El periodo de tiempo de los datos es diario. Es decir, cada vez que se ejecuta el script devuelve los datos de ese día.
+Tiene un total de 462 registros.
+El periodo de tiempo de los datos es mensual desde la ejecución del script. En el csv que se presenta desde 29/09/2019 a 28/10/2019.
 
 ## 6. Agradecimientos. Presentar al propietario del conjunto de datos. Es necesario incluir citas de investigación o análisis anteriores (si los hay). 
 
