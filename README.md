@@ -8,8 +8,6 @@ Para ejecutar el script es necesario instalar la siguientes bibliotecas:
 
 `pip install beautifulsoup4`
 
-Para ejecutar el script es necesario escrbir el siguiente comando:
-
 ***
 ## 1. Contexto. Explicar en qué contexto se ha recolectado la información. Explique por qué el sitio web elegido proporciona dicha información. 
 
