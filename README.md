@@ -22,7 +22,7 @@ Valores de las acciones de las empresas de bolsamadrid
 
 ## 3. Descripción del dataset. Desarrollar una descripción breve del conjunto de datos que se ha extraído (es necesario que esta descripción tenga sentido con el título elegido). 
 
-El dataset se compone de todas las empresas que cotizan en bolsa presentes en la dirección web http://www.bolsamadrid.es/esp/aspx/Mercados/Precios.aspx?mercado=MC con sus precios de cierre, fecha, máximos y mínimos diarios. 
+El dataset se compone de todas las empresas que cotizan en bolsa presentes en la dirección web http://www.bolsamadrid.es/esp/aspx/Mercados/Precios.aspx?mercado=MC con sus precios de cierre, fecha, máximos y mínimos diarios. Finalmente también hemos añadido un hipervinculo para que nos lleva al logotipo de la empresa.
 
 ## 4. Representación gráfica. Presentar una imagen o esquema que identifique el dataset visualmente 
 
@@ -30,9 +30,9 @@ https://github.com/abecerrac/project/blob/master/Dataset%20image%20PRAC1.png
 
 ## 5. Contenido. Explicar los campos que incluye el dataset, el periodo de tiempo de los datos y cómo se ha recogido. 
 
-El dataset cuenta con las siguientes columnas: "Empresa","Fecha","Cierre","Maximo","Minimo".
+El dataset cuenta con las siguientes columnas: "Empresa","Fecha","Cierre","Maximo","Minimo", "Imagen".
 Tiene un total de 462 registros.
-El periodo de tiempo de los datos es mensual desde la ejecución del script. En el csv que se presenta desde 29/09/2019 a 28/10/2019.
+El periodo de tiempo de los datos es mensual desde la ejecución del script. En el csv que se presenta desde 11/10/2019 a 08/11/2019.
 
 ## 6. Agradecimientos. Presentar al propietario del conjunto de datos. Es necesario incluir citas de investigación o análisis anteriores (si los hay). 
 
